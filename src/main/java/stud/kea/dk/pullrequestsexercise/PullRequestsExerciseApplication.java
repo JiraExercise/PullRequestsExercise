@@ -8,6 +8,8 @@ public class PullRequestsExerciseApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PullRequestsExerciseApplication.class, args);
+
+        System.out.println("Hvad ser der drengene!!");
     }
 
 }
