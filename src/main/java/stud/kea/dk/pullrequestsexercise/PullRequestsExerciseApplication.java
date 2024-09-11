@@ -10,6 +10,7 @@ public class PullRequestsExerciseApplication {
         SpringApplication.run(PullRequestsExerciseApplication.class, args);
 
         System.out.println("Hvad ser der drengene!!");
+        System.out.println("Prut med prut");
     }
 
 }
